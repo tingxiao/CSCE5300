@@ -2,7 +2,7 @@
 These tutorials are designed for the course 'CSCE 5300: Introduction to Big Data and Data Science' at UNT.
 You need to install Jupyter Notebooks to run and edit these .ipynb files. All the files are written in Python. Some of them are also available in [R](https://nbviewer.jupyter.org/github/comp180/Tutorials/tree/master/R/) and [Octave](https://nbviewer.jupyter.org/github/comp180/Tutorials/tree/master/Octave/).
 
-To install Jupyter Notebooks
+#### To install Jupyter Notebooks:
 
 1. Go to [the Anaconda download page]( https://www.anaconda.com/download/)
 
