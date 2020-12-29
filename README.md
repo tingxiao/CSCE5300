@@ -14,4 +14,4 @@ You need to install Jupyter Notebooks to run and edit these .ipynb files. All th
 
 5. In the top right of the Jupyter Notebooks webpage, click new and then select the language you want
     
-6. In [Jupyter notebooks]( https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/), you can run cells using ctrl+enter or shift+enter
+6. In Jupyter notebooks, you can run cells using ctrl+enter or shift+enter
